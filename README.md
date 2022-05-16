@@ -25,7 +25,7 @@ The following article represents one of many similar articles that will be taken
 
 [How 30 Lines of Code Blew Up a 27-Ton Generator](https://github.com/cs-ed/impacts-jandrew4643/blob/b84d41234493d5ee5f7c98b541d8ad722c513aec/wired.com-How%2030%20Lines%20of%20Code%20Blew%20Up%20a%2027-Ton%20Generator.pdf) - Wired Magazine
 
-For every class cycle of 5 periods (approximately 2 weeks), students will be assigned to read a relevant article.  Using Lucid.app, Societal Impact Analysis, small groups of students work in small groups based on their workstations in the room (randomly shuffled at the start of each unit). In the 5th period, groups will share observations and related information that furthers the discussion.  
+For every class cycle of 5 periods (approximately 2 weeks), students will be assigned to read a relevant article.  Using Lucid.app, [Societal Impact Analysis](https://lucid.app/lucidchart/113fa413-aaa0-47bb-a9ea-b022d83b30d2/edit?invitationId=inv_7a7d98f1-8827-46ec-b842-64da0953294c), small groups of students work in small groups based on their workstations in the room ([randomly](https://codehs.com/sandbox/id/2021-2022-random-group-selection-JVbtVi) shuffled at the start of each unit). In the 5th period, groups will share observations and related information that furthers the discussion.  
 
 
 ### Assessment
