@@ -35,6 +35,16 @@ A minimum of 30 minutes of class time will be dedicated to the discussion. While
 Using Google Classroom, a link will be provided to students to share and add to a class Lucid Document similar in nature to their group. Randomized group order for the first round of discussion. Subsequent questions should be voluntary, but a second round of randomly selected groups can be used if discussion slows.
 
 
+| Points | Assessment (Half points can be awarded when determined by instructor.) |
+| ----- | -----------|
+| 4 | Full participation, engagement and contribution to discussion |
+| 3 | Basic participation, engagement and contribution to discussion |
+| 2 | Minimal participation |
+| 1 | Content added |
+| 0 | No participation (credit can be made up aftercommunication with instructor) |
+| NA | Absent or assigned other task |
+
+
 ### Outcomes
 
 Computer Science is a field that is constantly reinventing itself.  There are basic concepts that underlie all that is done in the subject, but new ways of applying those concepts into content are constantly changing.  These assignments are designed to build off two main principles.
